@@ -896,9 +896,9 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/daniel-gabriolli.jpeg": {
+	"\/images\/daniel-gabriolli.jpg": {
 		"ft": 16384,
-		"iS": 70705,
+		"iS": 7355,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/daniel-gabriolli.jpg",
@@ -915,7 +915,7 @@
 		"oAP": "\/images\/dante.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/demo-logo.gif": {
@@ -2849,7 +2849,7 @@
 		"oAP": "\/images\/will-ferreira.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/index.html": {
