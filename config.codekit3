@@ -194,6 +194,20 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/daniel-gabriolli.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/daniel-gabriolli.html",
+		"oF": 0
+		},
+	"\/dante-francesconi.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dante-francesconi.html",
+		"oF": 0
+		},
 	"\/eduardo-ramalho.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -896,12 +910,34 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/daniel-abriolli-2.jpg": {
+		"ft": 16384,
+		"iS": 118612,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/daniel-abriolli-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/daniel-gabriolli.jpg": {
 		"ft": 16384,
 		"iS": 7355,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/daniel-gabriolli.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/dante-francesconi-2.jpg": {
+		"ft": 16384,
+		"iS": 241873,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/dante-francesconi-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2852,6 +2888,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/images\/william-ferreira.jpg": {
+		"ft": 16384,
+		"iS": 364401,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/william-ferreira.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -3261,6 +3308,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/vitor-morais.html",
+		"oF": 0
+		},
+	"\/william-ferreira.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/william-ferreira.html",
 		"oF": 0
 		}
 	},
